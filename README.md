@@ -19,4 +19,4 @@
 Python · pandas · NumPy · matplotlib · seaborn · scipy · statsmodels · scikit-learn · NLTK
 
 ## Автор
-Виктория Лапшина · портфолио: VikaLap.tilda.ws
+Виктория Лапшина · портфолио: vikalap-ai.ru
